@@ -1,60 +1,53 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">👋 Hi, I'm Pratik Dudhatra</h1>
-<h3 align="center">Mobile Application Developer | Flutter Specialist</h3>
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">I'm Pratik Dudhatra</h1>
+
+<h3 align="center">
+Flutter Developer • Mobile Application Specialist • 6+ Years Experience
+</h3>
+
+<p align="center">
+Building scalable, high-performance mobile applications using Flutter & Dart
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-Mobile Application Developer with **6+ years of professional experience** specializing in designing, developing, and optimizing mobile applications using **Flutter Framework and Dart Programming**.  
-
-Proven expertise in:
-- State management  
-- API integration  
-- Performance optimization  
-
-Strong background in **team leadership, client communication, and agile methodologies**.  
-Adept at delivering **high-quality, scalable solutions** tailored to client requirements while continuously learning and adapting to emerging technologies.
-
-🎯 **Career Goal:**  
-To leverage expertise in mobile application development to drive innovation and scalability in future projects.
+- 🔭 I’m currently working on **enterprise-grade Flutter applications**
+- 🧠 Strong experience in **state management, API integration & performance optimization**
+- 🧩 Worked on large-scale apps like **Tata Neu & LTStockPicks**
+- 🤝 Open to collaborating on **Flutter & FinTech projects**
+- 💬 Ask me about **Flutter, Dart, Firebase, App Architecture**
+- 📫 Reach me at **your_email@gmail.com**
+- ⚡ Fun fact: I enjoy optimizing apps until they *feel instant*
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pratik-dudhatra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="http://stackoverflow.com/users/11790181/pratik-dudhatratra" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pratikdudhatra65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/11790181/pratik-dudhatratra" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### 🚀 Mobile & Programming
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
-### 🔥 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### 🎨 Design & Tools
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,swift,firebase,sqlite,git,github,githubactions,jira,trello,figma,androidstudio,vscode" />
+</p>
 
 ---
 
@@ -71,4 +64,24 @@ To leverage expertise in mobile application development to drive innovation and 
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  You’ve reached the end of my profile — thanks for stopping by! 🚀  
+  Feel free to explore my repositories and raise issues or suggestions.  
+  <b>Happy Coding!</b>
+</p>
