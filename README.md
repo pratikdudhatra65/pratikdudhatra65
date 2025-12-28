@@ -24,13 +24,13 @@ To leverage expertise in mobile application development to drive innovation and 
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/pratik-dudhatra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
+  <a href="http://stackoverflow.com/users/11790181/pratik-dudhatratra" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:pratikdudhatra65@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
