@@ -30,6 +30,9 @@ Building scalable, high-performance mobile applications using Flutter & Dart
 ## 🌐 Connect with me
 
 <p align="left">
+  <a href="https://mountainous-ray-973.notion.site/Pratik-Dudhatra-Flutter-Developer-2128afeecc38804fabbdf5772c44562b" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/pratik-dudhatra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
