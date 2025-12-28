@@ -22,7 +22,7 @@ Building scalable, high-performance mobile applications using Flutter & Dart
 - 🧩 Worked on large-scale apps like **Tata Neu & LTStockPicks**
 - 🤝 Open to collaborating on **Flutter & FinTech projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, App Architecture**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **pratikdudhatra65@gmail.com**
 - ⚡ Fun fact: I enjoy optimizing apps until they *feel instant*
 
 ---
