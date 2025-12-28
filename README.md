@@ -10,7 +10,7 @@ Building scalable, high-performance mobile applications using Flutter & Dart
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=pratikdudhatra65&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -67,13 +67,13 @@ Building scalable, high-performance mobile applications using Flutter & Dart
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/pratik-dudhatra/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM">
-    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge"/>
+   <a href="mailto:pratikdudhatra65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/pratikdudhatra65">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge"/>
   </a>
 </p>
