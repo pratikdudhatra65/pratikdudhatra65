@@ -46,21 +46,18 @@ I care about clean architecture, smooth performance, maintainable code and devel
 ## ⚡ Engineering Focus
 
 <p align="center">
-
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img alt="BLoC" src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=flat-square" />
-<img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-222222?style=flat-square" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-
-<br>
-
-<img alt="REST API" src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" />
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img alt="Offline First" src="https://img.shields.io/badge/Offline--First-222222?style=flat-square" />
-<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square" />
-
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offline--First-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Payments-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Subscriptions-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square" />
 </p>
 
 ---
@@ -108,11 +105,13 @@ Production
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img
-    alt="Core stack"
-    src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,nodejs,firebase,sqlite,graphql,git,github,gitlab,githubactions&perline=6"
-  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,nodejs,firebase,sqlite,graphql,git,github,gitlab,githubactions,androidstudio,vscode,figma&perline=15"
+      alt="Tech Stack"
+    />
+  </a>
 </p>
 
 | Area                        | Technologies                                                                                 |
@@ -129,64 +128,58 @@ Production
 ## 🎯 Current Focus
 
 <p align="center">
-
-📱 <b>Flutter & Mobile Engineering</b>
-  •  
-🏗️ <b>Scalable Architecture</b>
-  •  
-⚡ <b>Performance</b>
-
-<br><br>
-
-🤖 <b>AI-Assisted Development</b>
-  •  
-🧩 <b>Reusable Components</b>
-  •  
-🚀 <b>Production-Ready Applications</b>
-
+  📱 <b>Flutter &amp; Mobile Engineering</b>
+  &nbsp;•&nbsp;
+  🏗️ <b>Scalable Architecture</b>
+  &nbsp;•&nbsp;
+  ⚡ <b>Performance Optimization</b>
+  &nbsp;•&nbsp;
+  🤖 <b>AI-Assisted Development</b>
+  &nbsp;•&nbsp;
+  🚀 <b>Production-Ready Apps</b>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=pratikdudhatra65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="Pratik's GitHub Stats"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdudhatra65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img
-    height="165"
-    alt="Pratik's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=pratikdudhatra65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  />
-
-<img
- height="165"
- alt="Most used languages"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdudhatra65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    alt="GitHub streak"
     src="https://streak-stats.demolab.com/?user=pratikdudhatra65&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
 <p align="center">
-
-Thanks for stopping by — feel free to explore my repositories or reach out.
-
-<br>
-
-<b>Happy coding! 🚀</b>
-
-<br><br>
-
-<img
-alt="Profile views"
-src="https://komarev.com/ghpvc/?username=pratikdudhatra65&label=Profile%20views&color=0e75b6&style=flat"
-/>
-
+  Thanks for stopping by — feel free to explore my repositories or reach out.
+  <br><br>
+  <b>Happy coding! 🚀</b>
+  <br><br>
+  <img
+    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=pratikdudhatra65&label=Profile%20views&color=0e75b6&style=flat"
+  />
 </p>
