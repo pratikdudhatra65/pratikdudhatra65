@@ -12,16 +12,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratik-dudhatra/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
   <a href="mailto:pratikdudhatra65@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
   <a href="https://mountainous-ray-973.notion.site/Pratik-Dudhatra-Flutter-Developer-2128afeecc38804fabbdf5772c44562b">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"
+    />
   </a>
   <a href="https://stackoverflow.com/users/11790181/pratik-dudhatratra">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img
+      alt="Stack Overflow"
+      src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"
+    />
   </a>
 </p>
 
@@ -46,18 +58,54 @@ I care about clean architecture, smooth performance, maintainable code and devel
 ## ⚡ Engineering Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offline--First-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Payments-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Subscriptions-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square" />
+  <img
+    alt="Flutter"
+    src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"
+  />
+  <img
+    alt="Dart"
+    src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"
+  />
+  <img
+    alt="BLoC"
+    src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=flat-square"
+  />
+  <img
+    alt="Clean Architecture"
+    src="https://img.shields.io/badge/Clean%20Architecture-222222?style=flat-square"
+  />
+  <img
+    alt="REST API"
+    src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"
+  />
+  <img
+    alt="GraphQL"
+    src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
+  />
+  <img
+    alt="Firebase"
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"
+  />
+  <img
+    alt="SQLite"
+    src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"
+  />
+  <img
+    alt="Offline First"
+    src="https://img.shields.io/badge/Offline--First-222222?style=flat-square"
+  />
+  <img
+    alt="Payments"
+    src="https://img.shields.io/badge/Payments-222222?style=flat-square"
+  />
+  <img
+    alt="Subscriptions"
+    src="https://img.shields.io/badge/Subscriptions-222222?style=flat-square"
+  />
+  <img
+    alt="CI/CD"
+    src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square"
+  />
 </p>
 
 ---
@@ -67,9 +115,18 @@ I care about clean architecture, smooth performance, maintainable code and devel
 I regularly use **Cursor, ChatGPT and Claude** to accelerate software development while keeping engineering judgment and validation in the loop.
 
 <p>
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img
+    alt="Cursor"
+    src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"
+  />
+  <img
+    alt="ChatGPT"
+    src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"
+  />
+  <img
+    alt="Claude"
+    src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"
+  />
 </p>
 
 ```text
@@ -140,8 +197,6 @@ Production
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
