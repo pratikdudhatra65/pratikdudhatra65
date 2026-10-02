@@ -200,18 +200,24 @@ Production
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=pratikdudhatra65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Pratik's GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdudhatra65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most Used Languages"
-  />
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=pratikdudhatra65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="Pratik's GitHub Stats"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdudhatra65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
